@@ -28,3 +28,9 @@ h1::before {
 h1::after {
   content: " 🎂";
 }
+
+.message {
+  font-size: 1.2em;
+  color: gray;
+  margin-bottom: 20px;
+}
